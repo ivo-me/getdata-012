@@ -1,4 +1,6 @@
-## variables
+!!! all data transformations are explained in comments in the run_analysis.R !!!
+
+variables
 1	subject
 2	activity
 3	tBodyAcc.mean...X
